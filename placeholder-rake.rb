@@ -1,1 +1,1 @@
-puts "Hi hi"
+puts "use greeter"
