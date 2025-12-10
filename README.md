@@ -1,1 +1,2 @@
-New hello world stuff on ruby
+This is the Hello World example from the git tutorial.
+(changed in original)
